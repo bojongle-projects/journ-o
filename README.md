@@ -84,3 +84,9 @@ faking a Twitter history
 Faking documents, such as a degree
 
 Building a website, also with history on it
+
+# End Goal
+
+Blue check on Twitter is a MUST
+
+Possibly have some work published
